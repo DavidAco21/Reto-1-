@@ -1,0 +1,2 @@
+rootProject.name='MapsReto'
+include ':app'
